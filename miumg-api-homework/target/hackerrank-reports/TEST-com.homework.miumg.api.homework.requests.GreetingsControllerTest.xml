@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.homework.miumg.api.homework.requests.GreetingsControllerTest" tests="3" failures="0" errors="0" skipped="0" time="2.589">
+  <testcase classname="com.homework.miumg.api.homework.requests.GreetingsControllerTest" name="greetJava" time="2.585" />
+  <testcase classname="com.homework.miumg.api.homework.requests.GreetingsControllerTest" name="greetSpring" time="0.002" />
+  <testcase classname="com.homework.miumg.api.homework.requests.GreetingsControllerTest" name="greetRodJohnson" time="0.002" />
+</testsuite>
+
